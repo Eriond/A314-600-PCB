@@ -1,7 +1,7 @@
 # A314-600-PCB v1.0 Autodesk EAGLE format
 A314 for Amiga 600 trapdoor and LED bar
 
-![Layout screenshot](Images/a314-600.png)
+![Layout screenshot](Images/a314-600.jpg)
 ## Changelog
 
 Initial commit of the **Amiga 600** version of the A314 board. Main differences compared to the Amiga 500 version:
