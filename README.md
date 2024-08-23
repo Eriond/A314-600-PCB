@@ -12,3 +12,6 @@ Initial commit of the **Amiga 600** version of the A314 board. Main differences 
  - Original LED overlay. If you don't want to use the included replacement LED board, then use your existing one, but connect it through the A314! Activity from the A314 is then multiplexed (or:ed) with harddrive activity using the existing HDD LED.
 ## Notes
 This PCB has NPT milled slots with a narrow width (1.5mm) which some board houses won't accept. I have successfully used WellPCB with excellent results. Check with you favourite board house if they accept such narrow slots, before submitting a job.
+
+You can find the belonging FPGA binaries here:
+- <https://github.com/niklasekstrom/A314-500-HDL>
